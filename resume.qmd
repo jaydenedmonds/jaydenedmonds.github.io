@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jayden Edmonds
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+## Business Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:jaydenedmonds5@gmail.com">jaydenedmonds5@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/jayden-edmonds5/">LinkedIn</a> |
+  <span>Phone: (707)-590-4271</span>
 </div>
 
 
-## Currently
+### Career Objective
+Highly motivated, upcoming Business Analytics graduate 
+seeking the opportunity to gather analytical experience within the industry. Eagerly ready to apply my relevant skills in the pursuit of business improvement and innovation.  
 
-Standing on the shoulders of giants
+### Education
+**Bachelor of Science, Business Analytics**
+*Brigham Young University-Idaho*, Rexburg, ID
+Anticipated Graduation: April 2025 
 
-### Specialized in
+### Relevant Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Analytical & Critical Thinking  
+- Collaboration & Teamwork  
+- Persuasion & Negotiation  
+- Communication  
+- Interpersonal  
+- Adaptability  
+- SQL  
+- R  
+- Python  
+- Power BI  
+- Microsoft Excel  
+- Microsoft Office  
 
+### Recent Work Experience
 
-### Research interests
+##### Business Analytics Intern
+*OptimalShip*, Rexburg, ID  
+January 2025-April 2025
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Leveraged Excel, MySQL, and Power BI to clean, organize, and analyze large datasets, ensuring accuracy while extracting actionable insights. 
+- Conducted geographical, time, and predictive analyses to enhance the company's understanding of cross-border profitability, identify historical 
+trends, and generate accurate forecasts for future performance. 
+- Identified client behavior trends and process inefficiencies, providing recommendations for improvements. 
+- Created data visualizations to present findings, enhancing decision-making processes. 
 
+##### Mail Clerk
+*BYU-Idaho Mail Services*, Rexburg, ID  
+September 2022-December 2024
 
-## Education
+- Received, sorted, and delivered mail in an efficient and timely manner. 
+- Prepared, processed, and documented outgoing mail pieces. 
+- Coordinated with various campus departments to ensure packages were delivered or picked up most efficiently. 
+- Speedily learned how to operate and leverage *SCLogic*, the logistics software used by our department in processing packages.
 
-`1654-1660`
-__The King's School, Grantham.__
+##### Merchandiser
+*Sam’s Club*, Idaho Falls, ID  
+August 2020-December 2021
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Monitored inventory levels and electronically flagged items that required restocking. 
+- Arranged and showcased items in an organized and tidy manner, contributing to a positive customer shopping experience. 
+- Maintained a solid work ethic and attendance record despite an early work schedule. 
+- Recognized twice with the “High Five” award, for hard work and dedication.  
